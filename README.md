@@ -4,4 +4,4 @@ This is HackerEarth September SQL Challenge. I Hope You find it helpful as I thi
 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Monthly Salary](https://www.hackerearth.com/challenges/competitive/september-sql-challenge/sql/monthly-salary/) | [SQL]()
+| 1 | [Monthly Salary](https://www.hackerearth.com/challenges/competitive/september-sql-challenge/sql/monthly-salary/) | [SQL](https://github.com/nehanawar025/september_sql_challenge_solution/blob/main/solutions/Monthly_Salary.sql)

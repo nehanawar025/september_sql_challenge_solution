@@ -13,4 +13,4 @@ These are my SQL solutions from different platforms. I Hope You find it helpful 
 ## HackerRank SQL -> Basic Select
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL]()
+| 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/Revising_the_Select_Query_I.sql)

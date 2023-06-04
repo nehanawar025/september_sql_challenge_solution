@@ -15,6 +15,10 @@ These are my SQL solutions from different platforms. I Hope You find it helpful 
 |:------:|------------|:---------:|
 | 1 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/Revising_the_Select_Query_I.sql)
 | 2 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem?isFullScreen=true) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/Revising_the_Select_Query_II.sql)
-| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | 
-| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) |
+| 3 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem?isFullScreen=true) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/Select_All.sql)
+| 4 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem?isFullScreen=true) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/SelectByID.sql)
+| 5 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem?isFullScreen=true) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/JapaneseCitiesAttributes.sql)
+| 6 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem?isFullScreen=true) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/JapaneseCitiesNames.sql)
+| 7 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem?isFullScreen=true) | [SQL](https://github.com/nehanawar025/sql_solution/blob/main/HackerRank/Basic%20Select/WeatherObservationStation1.sql)
+
 
